@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color:#f4ebed;
+}
+
+header {
+    background-color: #c8c5c6;
+    color: #311111;
+    text-align: center;
+    padding: 1rem 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    max-width: 1500 px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 0.5rem;
+}
+
+footer {
+    background-color:#b7b3b3;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+h3{
+    font-size: larger;
+
+}
+h4{
+    font-size: larger;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+.centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#intro{
+    background-color: #fff;
+    padding: 10px;
+}
+ #early-life{
+    background-color: #fff;
+    padding: 10px;
+
+ }
+#charity-work{
+    background-color: #fff;
+    padding: 10px;
+
+}
+#legacy{
+
+    background-color: #fff;
+    padding: 10px;
+}
+#recognition-and-criticism{
+
+    background-color: #fff;
+    padding: 10px;
+}
+#impact{
+    background-color: #fff;
+    padding: 10px;
+    
+}
+#conclusion{
+    background-color: #fff;
+   padding: 10px;
+
+}
+img{
+    width: 100px;
+    height: 250px;
+}
